@@ -51,5 +51,10 @@
     "README.md",
     "LICENSE"
   ],
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 100
+  },
   "_note": "personal fork for learning — not intended for publishing"
 }
