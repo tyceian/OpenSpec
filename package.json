@@ -54,7 +54,9 @@
   "prettier": {
     "semi": false,
     "singleQuote": true,
-    "printWidth": 100
+    "printWidth": 100,
+    "tabWidth": 2,
+    "trailingComma": "es5"
   },
   "_note": "personal fork for learning — not intended for publishing"
 }
